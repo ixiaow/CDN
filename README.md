@@ -1,1 +1,1 @@
-访问路径：　[https://cdn.jsdelivr.net/gh/ixiaow/cdn-assets/](https://cdn.jsdelivr.net/gh/ixiaow/cdn-assets/)
+访问路径：　[https://cdn.jsdelivr.net/gh/jxiaow/cdn-assets/](https://cdn.jsdelivr.net/gh/jxiaow/cdn-assets/)
